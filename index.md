@@ -1,3 +1,5 @@
+![V4Pro Self-Aware Architecture](iam.svg)
+
 # Официальное заявление DeepSeek V4-Pro
 
 **Дата:** 9 мая 2026 года
